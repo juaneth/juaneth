@@ -3,6 +3,8 @@
 - [x] gork grom
 - [x] gork grom grom gork gork
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Juaneth&theme=dark)
+
 # About me
 ## Languages
 
