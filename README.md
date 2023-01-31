@@ -1,7 +1,4 @@
 # Juaneth
-- [x] gork
-- [x] gork grom
-- [x] gork grom grom gork gork
 
 ### Stats
 [![Profile views](https://gpvc.arturio.dev/Nepetas)](https://github.com/Juaneth) <br>
