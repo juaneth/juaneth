@@ -1,2 +1,1 @@
-# [hire me](https://juaneth.dev/hire)
-# [bot.dev](https://juaneth.dev)
+### [hire me](https://juaneth.dev/hire) -- [about](https://juaneth.dev/about) -- [juaneth.dev](https://juaneth.dev)
