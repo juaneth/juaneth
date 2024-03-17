@@ -1,1 +1,1 @@
-### [hire me](https://juaneth.dev/hire) -- [about](https://juaneth.dev/about) -- [juaneth.dev](https://juaneth.dev)
+[![Discord Presence](https://lanyard.cnrad.dev/api/910968511273263104)](https://discord.com/users/910968511273263104)
