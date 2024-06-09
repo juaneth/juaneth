@@ -1,1 +1,1 @@
-![image](https://github.com/juaneth/juaneth/assets/68202118/dbfc3373-3881-45fd-9b16-9add05062b2d)
+![image](https://github.com/juaneth/juaneth/assets/68202118/faaa485c-917e-4c7b-8279-e7afb49b4c19)
