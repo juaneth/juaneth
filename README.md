@@ -12,4 +12,4 @@
                                                                                                          
 ```                                                                  
 
-<h3 align="center"> <a href="https://juaneth.dev">website</a> | <a href="https://github.com/juaneth?tab=repositories">projects</a> | <a>follow me pls</a> </h3>
+<h3 align="center"> <a href="https://arcwork-studios.vercel.app">website</a> | <a href="https://github.com/juaneth?tab=repositories">projects</a> | <a>follow me pls</a> </h3>
